@@ -1,7 +1,7 @@
 # The different steps to use the application
 
 ### Open your cmd and execute the following commands:
-## ```git clone https://github.com/moudjane/DiceApp.git```
+## ```git clone https://github.com/TimotheCDGP/AI-Recommendation-App.git```
 
 ## ```cd DiceApp```
 
