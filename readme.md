@@ -3,7 +3,7 @@
 ### Open your cmd and execute the following commands:
 ## ```git clone https://github.com/TimotheCDGP/AI-Recommendation-App.git```
 
-## ```cd DiceApp```
+## ```cd AI-Recommendation-App```
 
 ## ```npm install```
 
